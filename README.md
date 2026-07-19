@@ -2,8 +2,6 @@
 
 Learn **logging, metrics, and observability** hands-on: a FastAPI service instrumented with structured JSON logging and Prometheus metrics, shipping logs to **Loki** via **Promtail**, metrics to **Prometheus**, and visualizing both in **Grafana** — all wired together with Docker Compose.
 
-> 📖 **Full learning guide:** [PRD.md](PRD.md) walks through every file, every config decision, and PromQL/LogQL query examples. This README is just the quickstart.
-
 ## Architecture
 
 ```mermaid
